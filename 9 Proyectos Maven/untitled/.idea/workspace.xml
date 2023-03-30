@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05ef8694-3957-4f94-8a41-e1319e8da094" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Ventanas_7.5/Ventanas_7.5.iml" afterDir="false" />
+    <list default="true" id="895a1d5a-fb0b-4611-87ac-b5ae751e0a57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../7 Graficos/Ventanas_7.5/Ventanas_7.5.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Ejercicios/Ejercicios POO/1.6_EjerPoo/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Ejercicios/Ejercicios POO/1.6_EjerPoo/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Ejercicios/Ejercicios POO/1.6_EjerPoo/src/Hijo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Ejercicios/Ejercicios POO/1.6_EjerPoo/src/Padre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fuentes_7.3/src/INterfaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Fuentes_7.3/src/INterfaz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../8 Bases De Datos/Insertar_8.2/src/BaseDato.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 Bases De Datos/Insertar_8.2/src/BaseDato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ejercicios/Ejercicios Interfaces/tienda_login/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ejercicios/Ejercicios Interfaces/tienda_login/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Ejercicios/Ejercicios Interfaces/tienda_login/src/LoginForm.form" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ejercicios/Ejercicios Interfaces/tienda_login/src/LoginForm.form" afterDir="false" />
@@ -41,53 +40,33 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2BrTucPtiKuB7XtGAeiJmqAEY88" />
+  <component name="ProjectId" id="2DpPMPneD8EofANNRef1j8V9gTh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gabri/Desktop/Java SE/7 Graficos/Fuentes_7.3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programa" />
-      <module name="Introduccion_7.1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Programa" />
-      </list>
-    </recent_temporary>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05ef8694-3957-4f94-8a41-e1319e8da094" name="Changes" comment="" />
-      <created>1657663428329</created>
+      <changelist id="895a1d5a-fb0b-4611-87ac-b5ae751e0a57" name="Changes" comment="" />
+      <created>1661393003931</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657663428329</updated>
-      <workItem from="1657665794363" duration="75000" />
-      <workItem from="1657665916136" duration="4924000" />
-      <workItem from="1657738433738" duration="1297000" />
-      <workItem from="1657748078535" duration="746000" />
-      <workItem from="1673910539689" duration="249000" />
-      <workItem from="1673910851453" duration="1858000" />
+      <updated>1661393003931</updated>
+      <workItem from="1661393005158" duration="1489000" />
+      <workItem from="1661394507713" duration="7000" />
     </task>
     <servers />
   </component>

@@ -11,5 +11,5 @@ public class CLIArgumentUtil
     static CLIArgumet generateCLI() {
         Supplier <CLIArgumet> generator = () -> new CLIArgumet();
         return generator.get(); // Unico metodo de la interfaz
-    }
+    }`
 }

@@ -12,7 +12,7 @@ public class Programa
         JFrame ventana = new JFrame();
         INterfaz objeto = new INterfaz();
         ventana.add(objeto);
-        ventana.setSize(700, 700);
+        ventana.setSize(500, 600);
         ventana.setLocationRelativeTo(null);
         ventana.setVisible(true);
         ventana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

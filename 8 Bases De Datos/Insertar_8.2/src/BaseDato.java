@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class BaseDato
+public class  BaseDato
 {
     private static Connection conexion;
     private static BaseDato instancia;

@@ -9,9 +9,12 @@ public class INterfaz extends JPanel
         super.paint(g);
 
         // Podemos declarar fuentes del word haciendo lo sigueinte
-        Font fuente = new Font("Bauhaus 93", Font.PLAIN, 34);
+        Font fuente = new Font("Arial Cursiva", Font.BOLD, 200);
         g.setFont(fuente);
-        g.drawString("Joel Tates", 100, 300);
+        g.setColor(Color.RED);
+        g.drawString("S", 200, 300);
+        g.setColor(Color.PINK);
+        g.drawString("S", 220, 300);
 
     }
 }
